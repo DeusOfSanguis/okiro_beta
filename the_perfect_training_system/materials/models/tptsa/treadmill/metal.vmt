@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/tptsa/treadmill/metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .5 .5 .5 ]"
+}

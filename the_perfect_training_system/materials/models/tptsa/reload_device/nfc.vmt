@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture"  "models/tptsa/reload_device/nfc"
+	$translucent 1
+}

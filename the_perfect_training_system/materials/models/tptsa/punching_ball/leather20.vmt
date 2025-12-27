@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/tptsa/punching_ball/leather_color_20"
+	$bumpmap "models/tptsa/punching_ball/leather_rough"
+
+}

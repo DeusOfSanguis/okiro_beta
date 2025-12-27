@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/tptsa/punching_ball/darkleather_color"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .5 .5 .5 ]"
+	"$bumpmap" "models/tptsa/punching_ball/leather_rough"
+
+}

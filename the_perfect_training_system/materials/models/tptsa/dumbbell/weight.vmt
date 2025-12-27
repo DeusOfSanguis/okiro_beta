@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/tptsa/dumbbell/weight"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .3 .3 .3 ]"
+	$envmapcontrast 0.8
+}

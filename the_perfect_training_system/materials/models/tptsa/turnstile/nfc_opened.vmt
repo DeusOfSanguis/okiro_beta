@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"  "models/tptsa/turnstile/nfc_opened"
+	$translucent 1
+}

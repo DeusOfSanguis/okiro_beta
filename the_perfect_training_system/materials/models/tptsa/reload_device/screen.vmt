@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/tptsa/reload_device/screen"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .2 .2 .2 ]"
+}

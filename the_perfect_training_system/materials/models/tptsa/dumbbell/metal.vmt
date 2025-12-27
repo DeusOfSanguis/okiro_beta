@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/tptsa/dumbbell/metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .5 .5 .5 ]"
+}

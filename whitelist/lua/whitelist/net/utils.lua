@@ -1,0 +1,6 @@
+util.AddNetworkString("Okiro:Whitelist:RequestWlList")
+util.AddNetworkString("Okiro:Whitelist:SendWlList")
+util.AddNetworkString("Okiro:Whitelist:AddToWhitelist")
+util.AddNetworkString("Okiro:Whitelist:RemoveFromWhitelist")
+util.AddNetworkString("Okiro:Whitelist:NotifyError")
+util.AddNetworkString("Okiro:Whitelist:NotifySuccess")

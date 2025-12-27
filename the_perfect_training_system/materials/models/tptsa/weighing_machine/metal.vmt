@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/tptsa/weighing_machine/metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .5 .5 .5 ]"
+}

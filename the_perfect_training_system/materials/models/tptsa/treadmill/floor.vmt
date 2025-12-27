@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"  "models/tptsa/treadmill/floor"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "15"
+		}
+
+	}
+}
